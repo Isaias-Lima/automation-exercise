@@ -1,5 +1,5 @@
-describe('template spec', () => {
-  it('passes', () => {
-    cy.visit('https://example.cypress.io')
+describe('Validar Login', () => {
+  it('Acessa URL com Sucesso', () => {
+    cy.visit('https://automationexercise.com/')
   })
 })
